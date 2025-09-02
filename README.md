@@ -15,15 +15,15 @@ Each optimizer is implemented from scratch and tested on a simple quadratic loss
 ## 📁 Project Structure
 
 AI-Optimizers/
-├── images/ # Screenshots and plots
-├── adam_gradient_descent.py # Adam optimizer implementation
-├── data_generator.py # Data generation utilities
-├── gradient_descent.py # Batch Gradient Descent
-├── momentum_based_gradient_descent.py# Momentum-based optimizer
-├── rms_prop_gradient_descent.py # RMSProp implementation
-├── stochastic_gradient_descent.py # Stochastic Gradient Descent
-├── main.py # Main script to run and visualize optimizers
-└── README.md
+- images/ # Screenshots and plots
+─ adam_gradient_descent.py # Adam optimizer implementation
+- data_generator.py # Data generation utilities
+- gradient_descent.py # Batch Gradient Descent
+- momentum_based_gradient_descent.py# Momentum-based optimizer
+- rms_prop_gradient_descent.py # RMSProp implementation
+- stochastic_gradient_descent.py # Stochastic Gradient Descent
+- main.py # Main script to run and visualize optimizers
+- README.md
 ---
 
 ## 🚀 Getting Started
