@@ -32,7 +32,7 @@ AI-Optimizers/
 
 ![RMS vs Batch Gradient Descent Path](images/RMS_path.png)
 
-![RMS vs Batch Gradient Descent Loss](images/RMS_path.png)
+![RMS vs Batch Gradient Descent Loss](images/RMS_loss.png)
 
 ![ADAM vs Batch Gradient Descent Path](images/ADAM_path.png)
 
