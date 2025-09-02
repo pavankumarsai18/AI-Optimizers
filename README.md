@@ -26,6 +26,10 @@ AI-Optimizers/
 - README.md
 ---
 
+![Momentum vs Batch Gradient Descent](images/Momentum_path.png)
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Set up the environment
