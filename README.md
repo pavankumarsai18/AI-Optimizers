@@ -24,23 +24,18 @@ AI-Optimizers/
 ├── stochastic_gradient_descent.py # Stochastic Gradient Descent
 ├── main.py # Main script to run and visualize optimizers
 └── README.md
-
-yaml
-Copy code
-
 ---
 
 ## 🚀 Getting Started
 
 ### 1. Set up the environment
 
-```bash
+```
 python3 -m venv venv
 source venv/bin/activate
 pip install numpy matplotlib
+```
 2. Run the main script
-bash
-Copy code
 python main.py
 This will generate:
 
@@ -52,8 +47,6 @@ Loss vs Epoch plots for each method
 Optimization Paths
 
 Loss Curves
-
-ℹ️ Replace the image filenames above with actual file names from your images/ folder.
 
 ⚙️ Optimizers Overview
 Optimizer	Description
