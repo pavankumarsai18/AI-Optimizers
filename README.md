@@ -26,7 +26,17 @@ AI-Optimizers/
 - README.md
 ---
 
-![Momentum vs Batch Gradient Descent](images/Momentum_path.png)
+![Momentum vs Batch Gradient Descent Path](images/Momentum_path.png)
+
+![Momentum vs Batch Gradient Descent Loss](images/Momentum_loss.png)
+
+![RMS vs Batch Gradient Descent Path](images/RMS_path.png)
+
+![RMS vs Batch Gradient Descent Loss](images/RMS_path.png)
+
+![ADAM vs Batch Gradient Descent Path](images/ADAM_path.png)
+
+![ADAM vs Batch Gradient Descent Loss](images/ADAM_loss.png)
 
 ---
 
