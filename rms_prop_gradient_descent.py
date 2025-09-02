@@ -108,7 +108,7 @@ def main():
 
     plot_paths(quadratic_loss, [path_bgd, path_rms],
             ["Batch Gradient Descent", "Root Mean Square Descent"] ,
-            "Oscillations in BGD vs Momentum")
+            "Oscillations in BGD vs RMS Prop")
     
     plot_losses([losses_bgd, losses_rms], ["Batch Gradient Descent",
             "Root mean square Prop gradent Descent" ] ,

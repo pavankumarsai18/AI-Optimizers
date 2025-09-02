@@ -115,7 +115,7 @@ def main():
 
     plot_paths(quadratic_loss, [path_bgd, path_rms],
             ["Batch Gradient Descent", "ADAM"] ,
-            "Oscillations in BGD vs Momentum")
+            "Oscillations in BGD vs ADAM ")
     
     plot_losses([losses_bgd, losses_rms], ["Batch Gradient Descent",
             "ADAM" ] ,
